@@ -98,20 +98,12 @@ The circuit is built in multiple stages:
 
 ---
 
-## 📁 Folder Structure
+
 
 ```
 
 .
-├── wien\_oscillator.asc           # LTspice file for sine wave
-├── comparator.asc                # Square wave generator
-├── integrator.asc                # Sawtooth generator
-├── full\_circuit.asc              # Complete chain
-├── images/
-│   ├── wien\_output.png
-│   ├── square\_wave.png
-│   └── sawtooth\_output.png
-└── README.md
+
 
 ```
 
