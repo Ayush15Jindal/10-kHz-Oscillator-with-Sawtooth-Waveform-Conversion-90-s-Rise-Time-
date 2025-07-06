@@ -87,7 +87,7 @@ The circuit is built in multiple stages:
 
 ## 📄 Report
 
-[📎 Final Report (PDF)](https://drive.google.com/file/d/1pu2B5tmDaOo5k7La0A4-kFK9gyrEORBA/view?usp=sharing)
+[📎 Final Report (PDF)](https://drive.google.com/file/d/1NIJ04ShJh_91UKzQ97HiQF7xU8W8SBx_/view?usp=sharing)
 
 ---
 
