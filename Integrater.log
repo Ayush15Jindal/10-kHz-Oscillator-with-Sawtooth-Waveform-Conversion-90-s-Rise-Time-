@@ -1,0 +1,85 @@
+LTspice 24.1.0 for Windows
+Circuit: C:\Users\Ayush Jindal\Downloads\snom211b\Integrater.net
+Start Time: Wed Apr 30 17:26:49 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03523
+vernier = 0.0078125
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.02119
+vernier = 0.00260417
+Gmin = 1.01391
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01142
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00928
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00759
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00638
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 94.7562%
+Source Step = 94.8745%
+Source Step = 94.9929%
+Source Step = 95.1113%
+Source Step = 95.2296%
+vernier = 0.00585938
+Source Step = 95.3717%
+Source Step = 95.5492%
+Source Step = 95.7268%
+Source Step = 95.9044%
+Source Step = 96.0819%
+vernier = 0.00878906
+Source Step = 96.2861%
+Source Step = 96.5524%
+Source Step = 96.8188%
+Source Step = 97.0851%
+Source Step = 97.3514%
+vernier = 0.0131836
+Source Step = 97.6444%
+Source Step = 98.0439%
+Source Step = 98.4434%
+Source Step = 98.8429%
+Source Step = 99.2424%
+vernier = 0.0197754
+Source Step = 99.6619%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 4.205 seconds.
+
+Files loaded:
+C:\Users\Ayush Jindal\Downloads\snom211b\Integrater.net
+C:\Users\Ayush Jindal\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Ayush Jindal\Downloads\snom211b\lm741.lib
+
